@@ -12,16 +12,16 @@ A fully functional **frontend-only e-commerce webpage** built with React. This p
 
 ## 🛠️ Tech Stack
 
-- React (Functional Components)
+- React (Functional Components) 
 - JavaScript (ES6+)
 - CSS or basic styling
 - Local JSON/JS data file
 
 ##🧠 What I Learned
 
--Building component-based UIs with React
--Passing data via props
--Managing state with useState
--Structuring a frontend app for scalability
+-Building component-based UIs with React  
+-Passing data via props  
+-Managing state with useState  
+-Structuring a frontend app for scalability  
 
 
