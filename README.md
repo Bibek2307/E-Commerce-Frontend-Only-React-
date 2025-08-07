@@ -24,4 +24,6 @@ A fully functional **frontend-only e-commerce webpage** built with React. This p
 - Managing state with useState  
 - Structuring a frontend app for scalability  
 
+## 📸 Screenshots
+<img src="webpage-demo.png"/>
 
